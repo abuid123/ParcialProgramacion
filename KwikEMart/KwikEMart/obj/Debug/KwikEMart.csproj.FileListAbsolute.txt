@@ -1,0 +1,6 @@
+C:\Users\Agustin\source\repos\KwikEMart\KwikEMart\bin\Debug\KwikEMart.dll
+C:\Users\Agustin\source\repos\KwikEMart\KwikEMart\bin\Debug\KwikEMart.pdb
+C:\Users\Agustin\source\repos\KwikEMart\KwikEMart\obj\Debug\KwikEMart.csprojAssemblyReference.cache
+C:\Users\Agustin\source\repos\KwikEMart\KwikEMart\obj\Debug\KwikEMart.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\KwikEMart\KwikEMart\obj\Debug\KwikEMart.dll
+C:\Users\Agustin\source\repos\KwikEMart\KwikEMart\obj\Debug\KwikEMart.pdb
